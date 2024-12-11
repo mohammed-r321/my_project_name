@@ -28,12 +28,12 @@ class MyHomePage extends StatelessWidget {
         padding: const EdgeInsets.fromLTRB(2.0, 10.0, 2.0, 10.0),
         children: <Widget>[
           ProductBox(
-              name: "iphone.jpg",
+              name: "iphone",
               description: "iPhone is the stylist phone ever",
               price: 1000,
               image: "iphone.jpg"),
           ProductBox(
-              name: "Pixel.jpg",
+              name: "Pixel",
               description: "Pixel is the most featureful phone ever",
               price: 800,
               image: "pixel.jpg"),
